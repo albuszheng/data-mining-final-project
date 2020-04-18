@@ -1,5 +1,4 @@
 /dota-2-matches
-/data_clean
 /data_raw
 *.csv
 .vscode
